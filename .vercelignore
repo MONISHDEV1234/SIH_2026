@@ -1,0 +1,16 @@
+# Tell Vercel to ignore backend files and heavy data
+api/
+requirements.txt
+environment.yml
+src/
+models/
+data/
+configs/
+scripts/
+tests/
+synthetic/
+scratch/
+results/
+Dockerfile
+railway.json
+Procfile
